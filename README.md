@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rakeshuxui
+- 👋 Hi, I’m @cruz
 - 👀 I’m interested in ... UX/UI Desisigner
 - 🌱 I’m currently learning ...B.Tech IT
 - 💞️ I’m looking to collaborate on ...AWS
