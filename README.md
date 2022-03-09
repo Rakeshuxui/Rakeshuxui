@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cruz
+- 👋 Hi, I’m Rakesh
 - 👀 I’m interested in ... UX/UI Desisigner
 - 🌱 I’m currently learning ...B.Tech IT
 - 💞️ I’m looking to collaborate on ...AWS
