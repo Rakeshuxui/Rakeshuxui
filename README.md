@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakesh
 - 👀 I’m interested in ... UX/UI Desisigner
-- 🌱 I’m currently learning ...B.Tech IT
+- 🌱 B-Tech IT
 - 💞️ I’m looking to collaborate on ...AWS
 - 📫 How to reach me ...Whatsapp 9080449847 Mail ID:rakesh.uxde34@gmail.com
 
